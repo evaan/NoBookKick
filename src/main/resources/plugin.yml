@@ -1,4 +1,4 @@
-tmain: com.obamabob.nobookkick.NoBookKick
+main: com.obamabob.nobookkick.NoBookKick
 name: NoBookKick
 version: 1.0
 author: obamabob
