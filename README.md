@@ -4,6 +4,6 @@ Fixes the book and quill exploit that allowed the user to dupe and kick every pl
 ## Building
  - Import the project into IntelliJ
  - Click the tab named "Maven"
- - Under the lifestyle tab, select package
+ - Under the lifecycle tab, select package
  - Your jar will be found in the `target` directory
  - Profit.
